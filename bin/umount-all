@@ -4,3 +4,4 @@ umount-mdrive
 umount-wdrive
 umount-ldrive
 umount-phone
+umount-s3ql
