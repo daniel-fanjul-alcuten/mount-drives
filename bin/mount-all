@@ -1,7 +1,4 @@
 #!/bin/bash
 
-mount-mdrive
-mount-wdrive
-mount-ldrive
-mount-phone
-mount-s3ql
+mount-local
+mount-remote
